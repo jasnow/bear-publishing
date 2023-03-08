@@ -33,3 +33,11 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# NEW
+node_modules/
+o_bsbp-7a
+osv-output
+yarn.lock
+.overcommit.yml
+.rvmrc

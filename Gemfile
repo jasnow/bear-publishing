@@ -56,6 +56,8 @@ group :development, :test do
   gem "pry-byebug"
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem "byebug", platforms: %i[mri mingw x64_mingw]
+  gem "ruby_audit"
+  gem "spektr"
 end
 
 group :development do
