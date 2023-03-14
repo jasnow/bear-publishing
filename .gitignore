@@ -41,3 +41,4 @@ osv-output
 yarn.lock
 .overcommit.yml
 .rvmrc
+coverage

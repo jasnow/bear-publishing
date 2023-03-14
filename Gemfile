@@ -80,3 +80,5 @@ gem "httparty"
 gem 'jwt'
 gem "sentry-ruby"
 gem "sentry-rails"
+
+gem 'simplecov', require: false, group: :test
