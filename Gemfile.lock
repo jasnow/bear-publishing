@@ -318,7 +318,7 @@ DEPENDENCIES
   passwordless (~> 0.11.0)
   pry-byebug
   puma
-  rails (~> 7.0.4)
+  rails (~> 7.0.5)
   redis (~> 4.0)
   ruby_audit
   selenium-webdriver
