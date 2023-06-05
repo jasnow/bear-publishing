@@ -110,7 +110,7 @@ GEM
     httparty (0.21.0)
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
-    i18n (1.14.0)
+    i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     importmap-rails (1.1.6)
       actionpack (>= 6.0.0)
@@ -260,7 +260,7 @@ GEM
     strings-ansi (0.2.0)
     temple (0.10.2)
     thor (1.2.2)
-    tilt (2.1.0)
+    tilt (2.2.0)
     time (0.2.2)
       date
     timeout (0.3.2)
