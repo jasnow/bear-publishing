@@ -70,7 +70,7 @@ GEM
       public_suffix (>= 2.0.2, < 6.0)
     analytics-ruby (2.4.0)
     ast (2.4.2)
-    bcrypt (3.1.18)
+    bcrypt (3.1.19)
     bindex (0.8.1)
     bootsnap (1.16.0)
       msgpack (~> 1.2)
@@ -264,7 +264,7 @@ GEM
     tilt (2.2.0)
     time (0.2.2)
       date
-    timeout (0.3.2)
+    timeout (0.4.0)
     tty-color (0.6.0)
     tty-cursor (0.7.1)
     tty-option (0.3.0)
